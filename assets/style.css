@@ -70,6 +70,20 @@ textarea{
   transition: all .3s ease-in-out;
 }
 
+.past {
+  background:maroon;
+  font-style: italic;
+}
+
+.future {
+  background-color:#77dd77
+}
+
+.present {
+  background: #06AED5;
+  font-style: bold;
+}
+
 /*.input-group {
   display: flex;
   flex-wrap;
